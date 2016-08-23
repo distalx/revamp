@@ -1,0 +1,23 @@
+{
+  "name": "revamp",
+  "version": "0.0.0",
+  "description": "give new and improved form",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha src/index.test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distalx/revamp.git"
+  },
+  "author": "distalx <distalx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/distalx/revamp/issues"
+  },
+  "homepage": "https://github.com/distalx/revamp#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.0.2"
+  }
+}
