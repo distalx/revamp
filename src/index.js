@@ -1,4 +1,4 @@
-var censored_words = require('./censored-words.json');
+import censored_words from './censored-words.json';
 
 var tilde = function(text){
 

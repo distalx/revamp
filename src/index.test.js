@@ -1,5 +1,5 @@
-var expect = require ('chai').expect;
-var revamp = require ('./index.js');
+import { expect } from 'chai';
+import revamp from './index.js';
 
 describe('REVAMP',function(){
   describe('revamp',function(){

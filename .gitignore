@@ -3,3 +3,5 @@ node_modules
 clipboard
 coverage
 *.log
+.nyc_output
+dist
